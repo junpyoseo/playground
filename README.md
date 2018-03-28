@@ -1,5 +1,5 @@
 # README.md
-You can play and experiments anything on this repo.
+You can play and experiment anything on this repo.
 
 Let's try
 * fork this repo. to your own repo.
